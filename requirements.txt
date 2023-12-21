@@ -1,0 +1,6 @@
+streamlit
+langchain
+loguru
+streamlit_chat
+openai
+python-dotenv
